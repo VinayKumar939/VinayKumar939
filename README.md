@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Kumar Mannava
 ===========================================================================================================================================
 
-Software Developer | Machine Learning Engineer
+Data Scientist
 -------------------------------------------------
 
 I'm a skilled Python developer with strong proficiency in building machine learning systems, backed by a Master’s in Information Technology and a Bachelor's in Computer Science. I have hands-on experience in backend development, REST API creation, and deploying full-stack applications on AWS. My core expertise lies in Python and ML model development, with exposure to Generative AI workflows using frameworks like LangChain and OpenAI. My recent work includes a RAG-based GenAI chatbot, MNIST digit classifier using CNN and SVM, and a house price prediction model built using supervised learning techniques. I'm actively seeking roles in Software Development, Machine Learning, or GenAI engineering in the U.S. where I can bring technical value and continue to grow.
