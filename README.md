@@ -4,29 +4,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 -------------------------------------------------
 
-I'm a skilled Python developer with strong proficiency in building machine learning systems, backed by a Master’s in Information Technology and a Bachelor's in Computer Science. I have hands-on experience in backend development, REST API creation, and deploying full-stack applications on AWS. My core expertise lies in Python and ML model development, with exposure to Generative AI workflows using frameworks like LangChain and OpenAI. My recent work includes a RAG-based GenAI chatbot, MNIST digit classifier using CNN and SVM, and a house price prediction model built using supervised learning techniques. I'm actively seeking roles in Software Development, Machine Learning, or GenAI engineering in the U.S. where I can bring technical value and continue to grow.
-
-* 🌍  I'm based in Dallas, Texas  
-* ✉️  Contact: [vinaykumarmannava3@gmail.com](mailto:vinaykumarmannava3@gmail.com)  
-* 🧠  Currently exploring: NLP, LLMs, and Prompt Engineering  
+Based on your resume, here’s a **professional and natural GitHub README introduction** tailored to your current role as a Data Scientist focused on RAG chatbots and GenAI:
 
 ---
 
-### 🔥 Featured Projects
+I'm a Data Scientist with hands-on experience building AI-powered solutions across healthcare, legal, and financial domains. My current focus is on **Retrieval-Augmented Generation (RAG) pipelines**, leveraging tools like **LangChain, OpenAI, FAISS**, and **Hugging Face** to enable intelligent document search and question answering. I enjoy working at the intersection of **NLP, vector search, and prompt engineering**, and I’ve deployed production-grade applications using **Python, FastAPI, Docker, and AWS**.
+I’m passionate about developing scalable GenAI systems and experimenting with prompt-tuning strategies that reduce hallucinations and improve grounding. You’ll find projects here that reflect my work in building chatbots, deploying ML pipelines, and crafting interactive data apps with **Streamlit** and **TensorFlow**.
 
+---
+* 🌍  I'm based in Dallas, Texas  
+* ✉️  Contact: [vinaykumarmannava3@gmail.com](mailto:vinaykumarmannava3@gmail.com)  
+* 🧠  Currently exploring: NLP, LLMs, and Prompt Engineering  
+---
+### 🔥 Featured Projects
 - **[🩺 Heart Disease Prediction](https://github.com/VinayKumar939/MINI-PROJECT-HEART-DISEASE-)**  
   Developed a classification model to predict heart disease using Scikit-learn, focusing on healthcare data.
-
 - **[🔢 MNIST Digit Classification with CNN & SVM](https://github.com/VinayKumar939/MNIST-Digits-Classification-Tensorflow)**  
   Implemented deep learning and classical ML methods to classify handwritten digits.
-
 - **[📊 Body Fat Prediction (Regression Analysis)](https://github.com/VinayKumar939/Body-s-Fat)**  
   Built a regression model to estimate body fat percentage based on physical attributes.
 
 ---
 
 ### 🛠️ Skills
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -44,14 +44,11 @@ I'm a skilled Python developer with strong proficiency in building machine learn
 </p>
 
 ---
-
 ### 🌐 Socials
-
 <p align="left">
 <a href="https://github.com/VinayKumar939" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/mannavavinay" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
-
 ---
 
 
