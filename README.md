@@ -12,7 +12,7 @@ I’m passionate about developing scalable GenAI systems and experimenting with 
 * ✉️  Contact: [vinaykumarmannava3@gmail.com](mailto:vinaykumarmannava3@gmail.com)  
 * 🧠  Currently exploring: NLP, LLMs, and Prompt Engineering  
 ---
-### 🔥 Featured Projects
+### Featured Projects
 - **[🩺 Heart Disease Prediction](https://github.com/VinayKumar939/MINI-PROJECT-HEART-DISEASE-)**  
   Developed a classification model to predict heart disease using Scikit-learn, focusing on healthcare data.
 - **[🔢 MNIST Digit Classification with CNN & SVM](https://github.com/VinayKumar939/MNIST-Digits-Classification-Tensorflow)**  
