@@ -49,6 +49,5 @@ I’m passionate about developing scalable GenAI systems and experimenting with 
 <a href="https://github.com/VinayKumar939" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/mannavavinay" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
----
 
 
