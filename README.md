@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 -------------------------------------------------
 
-Based on your resume, here’s a **professional and natural GitHub README introduction** tailored to your current role as a Data Scientist focused on RAG chatbots and GenAI:
-
----
-
 I'm a Data Scientist with hands-on experience building AI-powered solutions across healthcare, legal, and financial domains. My current focus is on **Retrieval-Augmented Generation (RAG) pipelines**, leveraging tools like **LangChain, OpenAI, FAISS**, and **Hugging Face** to enable intelligent document search and question answering. I enjoy working at the intersection of **NLP, vector search, and prompt engineering**, and I’ve deployed production-grade applications using **Python, FastAPI, Docker, and AWS**.
 I’m passionate about developing scalable GenAI systems and experimenting with prompt-tuning strategies that reduce hallucinations and improve grounding. You’ll find projects here that reflect my work in building chatbots, deploying ML pipelines, and crafting interactive data apps with **Streamlit** and **TensorFlow**.
 
