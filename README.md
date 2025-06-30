@@ -17,8 +17,7 @@ I’m passionate about developing scalable GenAI systems and experimenting with 
   Developed a classification model to predict heart disease using Scikit-learn, focusing on healthcare data.
 - **[🔢 MNIST Digit Classification with CNN & SVM](https://github.com/VinayKumar939/MNIST-Digits-Classification-Tensorflow)**  
   Implemented deep learning and classical ML methods to classify handwritten digits.
-- **[📊 Body Fat Prediction (Regression Analysis)](https://github.com/VinayKumar939/Body-s-Fat)**  
-  Built a regression model to estimate body fat percentage based on physical attributes.
+- **[📊 House Price Prediction (Regression Analysis)](https://github.com/VinayKumar939/House_Price_Prediction_Tx)**  
 
 ---
 
