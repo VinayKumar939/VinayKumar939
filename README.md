@@ -15,7 +15,7 @@ I’m passionate about developing scalable GenAI systems and experimenting with 
 ### Featured Projects
 - **[🩺 Heart Disease Prediction](https://github.com/VinayKumar939/MINI-PROJECT-HEART-DISEASE-)**  
   Developed a classification model to predict heart disease using Scikit-learn, focusing on healthcare data.
-- **[🔢 MNIST Digit Classification with CNN & SVM](https://github.com/VinayKumar939/MNIST-Digits-Classification-Tensorflow)**  
+- **[🔢 MNIST Digit Classification with CNN & SVM]([https://github.com/VinayKumar939/MNIST-Digits-Classification-Tensorflow](https://github.com/VinayKumar939/MNIST-Digital-Classification-and-Handwritten-Digit-Recognition))**  
   Implemented deep learning and classical ML methods to classify handwritten digits.
 - **[📊 House Price Prediction (Regression Analysis)](https://github.com/VinayKumar939/House_Price_Prediction_Tx)**  
 
