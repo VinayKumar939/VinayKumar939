@@ -54,7 +54,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🏠 [House Price Prediction Using Regression](https://github.com/VinayKumar939/House_Price_Prediction_Tx)
+### 🏠 [House Price Prediction](https://github.com/VinayKumar939/House_Price_Prediction_Bengaluru)
 
 - Regression model for house prices
 - Advanced feature engineering, XGBoost, Scikit-learn, Pandas, Matplotlib
