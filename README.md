@@ -1,6 +1,6 @@
 <!-- Animated Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Vinay+Kumar+Mannava+%F0%9F%91%8B;Data+Scientist+%7C+GenAI+Builder+%7C+Cloud+ML+Engineer;Welcome+to+my+GitHub+profile!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Vinay+Kumar+Mannava+%F0%9F%91%8B;Data+Scientist+%7C+GenAI+Builder+%7C+ML+Engineer;Welcome+to+my+GitHub+profile!"/>
 </p>
 
 ---
