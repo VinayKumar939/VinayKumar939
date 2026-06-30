@@ -27,32 +27,30 @@ I'm a Software Developer currently working at **Common App**, building backend s
 **Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
+<img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
+<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonsns&logoColor=white" />
+<img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-**AWS / Cloud**
-
-<p>
-  <img src="https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonsimplenotificationservice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
 
 <br/>
 
