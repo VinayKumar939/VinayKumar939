@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="mailto:vinay.kmannava@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinay.kmannava%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mannavavinay">
-    <img src="https://img.shields.io/badge/LinkedIn-mannavavinay-555?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mannavavinay" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </p>
 
@@ -48,6 +48,10 @@ I'm a Software Developer currently working at **Common App**, building backend s
   <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 <br/>
