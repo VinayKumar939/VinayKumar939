@@ -11,9 +11,7 @@
   <a href="https://www.linkedin.com/in/mannavavinay">
     <img src="https://img.shields.io/badge/LinkedIn-mannavavinay-555?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/VinayKumar939">
-    <img src="https://img.shields.io/badge/GitHub-VinayKumar939-555?style=flat-square&logo=github&logoColor=white" />
-  </a>
+
 </p>
 
 <br/>
