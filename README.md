@@ -8,7 +8,7 @@
   <a href="mailto:vinay.kmannava@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/mannavavinay" target="_blank">
+<a href="https://www.linkedin.com/in/vinaykumar675/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a Software Developer currently working at **Common App**, building backend services and cloud-native applications. My background spans full-stack development, cloud infrastructure, and data engineering — I enjoy working across the stack, from APIs and services to deployment pipelines.
+I'm a Software Developer currently working at **Common App**, building Full Stack applications. My background spans full-stack development, cloud infrastructure, — I enjoy working across the stack, from UI, APIs and services to deployment pipelines.
 
 <br/>
 
@@ -28,6 +28,8 @@ I'm a Software Developer currently working at **Common App**, building backend s
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,aws,docker,kubernetes,git,github,postgres,mysql,html,css,js,typescript,figma,tensorflow,pytorch,scikitlearn,keras,streamlit,tableau,pandas,numpy,matplotlib,seaborn" />
+</p>
 
 </p>
 
