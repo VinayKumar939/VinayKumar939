@@ -28,27 +28,15 @@ I'm a Software Developer currently working at **Common App**, building backend s
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
-<img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
-<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" />
-<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonsns&logoColor=white" />
-<img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" />
+<!-- AWS services WITH real icons -->
+<img src="https://skillicons.dev/icons?i=aws" />
+<img height="65" src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img height="65" src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img height="65" src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+
+<!-- Services without dedicated icons in any library: ECS, CloudWatch, CloudFormation, CodePipeline, CodeBuild, Athena, Glue, Bedrock -->
+<img height="65" src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge" />
+<img height="65" src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge" />
 </p>
 
 
@@ -70,30 +58,3 @@ Upload PDFs, ask questions, get grounded answers — built with Python, Hugging 
 Regression model for house price estimation using feature engineering, XGBoost, Scikit-learn, Pandas, and Matplotlib.
 
 <br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayKumar939&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumar939&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar939&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<br/>
-
-## Let's Connect
-
-<p align="center">
-  <a href="mailto:vinay.kmannava@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinay.kmannava%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mannavavinay">
-    <img src="https://img.shields.io/badge/LinkedIn-mannavavinay-555?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VinayKumar939">
-    <img src="https://img.shields.io/badge/GitHub-VinayKumar939-555?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
