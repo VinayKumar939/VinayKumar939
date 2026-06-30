@@ -27,8 +27,8 @@ I'm a Software Developer currently working at **Common App**, building Full Stac
 **Languages & Frameworks**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,aws,docker,kubernetes,git,github,postgres,mysql,html,css,js,typescript,figma,tensorflow,pytorch,scikitlearn,keras,streamlit,tableau,pandas,numpy,matplotlib,seaborn"/>
+<img src="https://skillicons.dev/icons?i=cs,java,django,dotnet,spring,angular," />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,aws,docker,kubernetes,git,github,postgres,mysql,html,css,js,typescript,figma,tensorflow,pytorch,scikitlearn,keras,streamlit,tableau,pandas,numpy,matplotlib,seaborn,mcp,langgraph"/>
 </p>
 
 </p>
