@@ -28,15 +28,7 @@ I'm a Software Developer currently working at **Common App**, building backend s
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
-<!-- AWS services WITH real icons -->
-<img src="https://skillicons.dev/icons?i=aws" />
-<img height="65" src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img height="65" src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-<img height="65" src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 
-<!-- Services without dedicated icons in any library: ECS, CloudWatch, CloudFormation, CodePipeline, CodeBuild, Athena, Glue, Bedrock -->
-<img height="65" src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge" />
-<img height="65" src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge" />
 </p>
 
 
