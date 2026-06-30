@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Vinay Kumar 👋</h1>
-<h3 align="center">Software Developer II  @ Common APP <img width="512" height="397" alt="image" src="https://github.com/user-attachments/assets/c443941a-3cbf-4299-9be8-ef51eee9b968" />
- </h3>
+<h3 align="center">
+  Software Developer @ Common App
+  <img src="commonapp-logo.png" height="20" style="vertical-align: middle; margin-left: 8px;" />
+</h3>
 
 <p align="center">
   <a href="mailto:vinay.kmannava@gmail.com">
@@ -18,26 +20,43 @@
 
 ## About Me
 
-I'm a Software Developer currently working at **Blue Cross Blue Shield Association**, building backend services and cloud-native applications. My background spans full-stack development, cloud infrastructure, and data engineering — I enjoy working across the stack, from APIs and services to deployment pipelines.
+I'm a Software Developer currently working at **Common App**, building backend services and cloud-native applications. My background spans full-stack development, cloud infrastructure, and data engineering — I enjoy working across the stack, from APIs and services to deployment pipelines.
 
 <br/>
 
 ## Tech Stack
 
-**Languages**
-`Python` `C#` `Java`
+**Languages & Frameworks**
 
-**Frameworks**
-`Django` `.NET 8` `Spring Boot` `Angular 18–21`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,java,django,dotnet,spring,angular" />
+</p>
 
 **AWS / Cloud**
-`S3` `Lambda` `ECS` `CloudWatch` `CloudFormation` `CodePipeline` `CodeBuild` `DynamoDB` `Athena` `API Gateway` `SQS` `SNS` `Glue` `Bedrock` `Amplify`
+
+<p>
+  <img src="https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonsimplenotificationservice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white" />
+</p>
 
 <br/>
 
 ## Experience
 
-**Software Developer** — Blue Cross Blue Shield Association
+**Software Developer** — Common App
 *Currently working here*
 
 <br/>
