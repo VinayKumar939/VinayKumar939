@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Vinay Kumar 👋</h1>
-<h3 align="center">Software Developer @ Blue Cross Blue Shield Association</h3>
+<h3 align="center">Software Developer II  @ Common APP <img width="512" height="397" alt="image" src="https://github.com/user-attachments/assets/c443941a-3cbf-4299-9be8-ef51eee9b968" />
+ </h3>
 
 <p align="center">
   <a href="mailto:vinay.kmannava@gmail.com">
